@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "name": "Birir",
+      "email": "sospeterbirir1@gmail.com",
+      "password": "abcd@1234",
+      "id": "46d9"
+    },
+    {
+      "name": "Sospeter",
+      "email": "sospeterbirir1@gmail.com",
+      "password": "abcd@1234",
+      "id": "1ab6"
+    },
+    {
+      "id": "2e69",
+      "email": "admin@gmail.com",
+      "password": "38541063",
+      "username": "admin"
+    },
+    {
+      "id": "254e",
+      "email": "timothy@yahoo.com",
+      "password": "123456789",
+      "username": "timothy"
+    },
+    {
+      "id": "36f3",
+      "email": "kevin@gmail.com",
+      "password": "00000000",
+      "username": "kevin"
+    },
+    {
+      "id": "09e9",
+      "email": "tee@gmail.com",
+      "password": "00000000",
+      "username": "samuel tee"
+    }
+  ]
+}

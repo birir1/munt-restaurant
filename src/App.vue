@@ -1,13 +1,18 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <div id="app">
+    <img src="@/assets/muntlogo.png" class="logo" />
+    <SignUp />
+  </div>
 </template>
 
 <script>
-
+import SignUp from './components/SignUp.vue';
 
 export default {
   name: 'App',
-  
+  components: {
+    SignUp
+  }
 }
 </script>
 
@@ -19,5 +24,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+.logo {
+  width: 100px;
 }
 </style>
